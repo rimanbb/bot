@@ -3,8 +3,8 @@ import json
 import telebot
 
 
-api = "5836475220:AAF1q-iTB75ClMGQNaMbMR-iHZu190p9xp4"     #colocar seu token do bot
-chat_id = "-1001506995667"                                  #colocar id do chat, para super grupo colocar -100 antes
+api = "########"     #colocar seu token do bot criado no telegram pelo botfather 
+chat_id = "#####"                                  #colocar id do chat, para super grupo colocar -100 antes
 
 bot = telebot.TeleBot(api)
 
